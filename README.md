@@ -1,6 +1,5 @@
+  PART 3 OUT NOW https://github.com/awesome-lamo/funi-moosic-3
  
-
-
 > Open this page at [https://awesome-lamo.github.io/da-funi-moosic-2-drug-edition/](https://awesome-lamo.github.io/da-funi-moosic-2-drug-edition/)
 
 ## Use as Extension
